@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprimdevkota&label=Profile%20views&color=0e75b6&style=flat" alt="suprimdevkota" /> </p>
 
-- 🔭 I’m currently working on **Huffman Compression Visualizer**
-
-- 🌱 I’m currently learning **Data Science and ML**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 📫 How to reach me **suprimdevkota@gmail.com**
 
