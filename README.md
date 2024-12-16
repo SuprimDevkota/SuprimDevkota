@@ -1,11 +1,11 @@
 <h1 align="center">HI!, I'm Suprim Devkota</h1>
-<h3 align="center">A Computer Engineering sophomore</h3>
+<h3 align="center">A final year Computer Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprimdevkota&label=Profile%20views&color=0e75b6&style=flat" alt="suprimdevkota" /> </p>
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 📫 How to reach me **suprimdevkota@gmail.com**
+- 📫 How to reach me **devkotasuprim832@gmail.com**
 
 - ⚡ Fun fact **I like dogs**
 
